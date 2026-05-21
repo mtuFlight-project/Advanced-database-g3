@@ -1,7 +1,7 @@
 # Advanced-database-g3
         GROUP MEMBERS
 NAME                        ID
-yeabtsege dagne             8230/17
+Yeabtsege Dagne             8230/17
 solomon berie               8227/17
 temechew asmamaw            7895/17
 tibebu abera                7852/17
